@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AirPort_PRO_NuGet_Logger.Contracts\AirPort_PRO_NuGet_Logger.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
