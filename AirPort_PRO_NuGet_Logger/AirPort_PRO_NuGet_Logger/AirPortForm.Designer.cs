@@ -314,6 +314,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Name = "AirPortForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "AirPortForm";
             this.panel2.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
