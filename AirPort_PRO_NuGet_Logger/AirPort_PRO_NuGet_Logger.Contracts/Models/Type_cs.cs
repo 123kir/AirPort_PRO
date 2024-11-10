@@ -3,7 +3,7 @@
 namespace AirPort_PRO_NuGet_Logger.Contracts.Models
 {
     /// <summary>
-    /// Перечисление для обозначения марок самолетов
+    /// Перечисление для обозначения типов самолетов
     /// </summary>
     public enum Type_cs
     {
