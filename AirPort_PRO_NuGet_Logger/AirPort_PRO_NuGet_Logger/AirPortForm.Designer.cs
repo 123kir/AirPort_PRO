@@ -28,14 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.panel2 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.comboBoxType = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -52,9 +53,11 @@
             this.textBoxCrew_fee = new System.Windows.Forms.TextBox();
             this.textBoxPercent = new System.Windows.Forms.TextBox();
             this.dateTimePickerArrival = new System.Windows.Forms.DateTimePicker();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel2
@@ -113,6 +116,16 @@
             this.label3.TabIndex = 5;
             this.label3.Text = " указан нужный тип!";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::AirPort_PRO_NuGet_Logger.Properties.Resources.airPortFoto;
+            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(132, 94);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 4;
+            this.pictureBox1.TabStop = false;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -133,16 +146,6 @@
             this.label2.Size = new System.Drawing.Size(326, 16);
             this.label2.TabIndex = 3;
             this.label2.Text = "Укажите тип самолета, даже, если там уже";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::AirPort_PRO_NuGet_Logger.Properties.Resources.airPortFoto;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(132, 94);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 4;
-            this.pictureBox1.TabStop = false;
             // 
             // label4
             // 
@@ -282,6 +285,10 @@
             this.dateTimePickerArrival.Size = new System.Drawing.Size(109, 20);
             this.dateTimePickerArrival.TabIndex = 32;
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // AirPortForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -312,6 +319,7 @@
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -343,5 +351,6 @@
         private System.Windows.Forms.TextBox textBoxCrew_fee;
         private System.Windows.Forms.TextBox textBoxPercent;
         private System.Windows.Forms.DateTimePicker dateTimePickerArrival;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }

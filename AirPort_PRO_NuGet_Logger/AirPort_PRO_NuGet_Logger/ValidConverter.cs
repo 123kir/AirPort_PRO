@@ -1,5 +1,4 @@
 ﻿using AirPort_PRO_NuGet_Logger.Contracts.Models;
-using System.ComponentModel.DataAnnotations;
 
 namespace AirPort_PRO_NuGet_Logger
 {
@@ -11,7 +10,7 @@ namespace AirPort_PRO_NuGet_Logger
         /// <summary>
         /// Привести <see cref="Plane"/> к <see cref="ValidPlane"/>
         /// </summary>
-        public static Plane ToValidAvto(ValidPlane validPlane)
+        public static Plane ToValidPlane(ValidPlane validPlane)
         {
             return new Plane()
             {
@@ -31,7 +30,7 @@ namespace AirPort_PRO_NuGet_Logger
         /// <summary>
         /// Привести <see cref="ValidPlane"/> к <see cref="Plane"/>
         /// </summary>
-        public static ValidPlane ToAvto(Plane plane)
+        public static ValidPlane ToPlane(Plane plane)
         {
             return new ValidPlane()
             {

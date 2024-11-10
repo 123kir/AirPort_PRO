@@ -80,7 +80,7 @@ namespace AirPort_PRO_NuGet_Logger.Contracts.Models
         /// Конструктор устанавливает значение <see cref="DTPArrival"/> на текущее время, 
         /// а <see cref="RentalAmount"/> инициализируется нулем.
         /// </remarks>
-        public Plane()
+        public ValidPlane()
         {
             DTPArrival = DateTime.Now;
             RentalAmount = 0;

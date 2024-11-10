@@ -1,9 +1,10 @@
-﻿using AirPort_PRO_NuGet_Logger.PlaneManager;
-using AirPort_PRO_NuGet_Logger.Storage.Memory;
+﻿using AirPort_PRO_NuGet_Logger.AirPortManager;
+using DataGridAirPort.Storage.Memory;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Windows.Forms;
 
-namespace DataGridAirPort
+namespace AirPort_PRO_NuGet_Logger
 {
     /// <summary>
     /// Главный класс приложения, содержащий точку входа
@@ -19,8 +20,11 @@ namespace DataGridAirPort
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
+            var factory = LoggerFactory.Create(builder => builder.AddDebug());
+            var logger = factory.CreateLogger(nameof(DataGrid));
+
             var storage = new MemoryAirPlaneStorage();
-            var manager = new PlaneManager(storage);
+            var manager = new PlaneManager_cs(storage, logger);
 
             Application.Run(new Form1(manager));
         }
