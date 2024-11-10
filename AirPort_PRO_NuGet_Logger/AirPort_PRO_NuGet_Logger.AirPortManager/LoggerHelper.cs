@@ -5,7 +5,7 @@ namespace AirPort_PRO_NuGet_Logger.AirPortManager
 {
     static internal class LoggingHelper
     {
-        private const string InfoLoggerTemplateAvto =
+        private const string InfoLoggerTemplatePlane =
            "Заполнено {0} для самолета с идентификатором {1} и номерами \"{2}\", прошло время: {3} мс; дата: {4}";
         private const string ErrorLoggerTemplateAvto =
             "Не удалось заполнить {0} для самолета с идентификатором {1} и номерами \"{2}\", прошло время: {3} мс; дата: {4}; сообщение об ошибке: {5}";
@@ -37,7 +37,7 @@ namespace AirPort_PRO_NuGet_Logger.AirPortManager
         {
             logger.LogInformation(
                 string.Format(
-                              InfoLoggerTemplateAvto,
+                              InfoLoggerTemplatePlane,
                               actionName,
                               applicantId,
                               applicantName ?? "-",

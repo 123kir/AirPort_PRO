@@ -23,7 +23,7 @@ namespace AirPort_PRO_NuGet_Logger.AirPortManager.Models
         public int Entire_crew { get; set; }
 
         /// <summary>
-        /// Общее количество сборов (возможно, денежные средства) от всех пассажиров
+        /// Общее количество сборов от всех пассажиров
         /// </summary>
         public decimal Total_coins { get; set; }
     }

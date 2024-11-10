@@ -31,7 +31,6 @@ namespace DataGridAirPort
             var targetName = GetMemberName(targetProperty);
             var sourceName = GetMemberName(sourceProperty);
 
-            // Привязка данных
             target.DataBindings.Add(new Binding(targetName, source, sourceName,
                 false,
                 DataSourceUpdateMode.OnPropertyChanged));

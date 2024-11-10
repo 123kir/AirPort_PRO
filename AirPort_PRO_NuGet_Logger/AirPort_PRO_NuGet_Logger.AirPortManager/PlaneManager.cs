@@ -159,7 +159,6 @@ namespace AirPort_PRO_NuGet_Logger.AirPortManager
         public async Task<IPlaneStats> GetStatsAsync()
         {
             var items = await airPortStorage.GetAllAsync();
-            decimal Total_passengers = items.Count(i => i.Number_crew < 7);
 
             foreach (var plane in items)
             {

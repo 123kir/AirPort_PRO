@@ -5,7 +5,6 @@ namespace AirPort_PRO_NuGet_Logger.Contracts.Models
 {
     /// <summary>
     /// Класс, представляющий информацию о самолете
-    /// Машина
     /// </summary>
     public class ValidPlane
     {
