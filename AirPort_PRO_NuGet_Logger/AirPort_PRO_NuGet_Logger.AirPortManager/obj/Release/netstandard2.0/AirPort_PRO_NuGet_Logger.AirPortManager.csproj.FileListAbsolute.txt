@@ -1,0 +1,13 @@
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.deps.json
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.pdb
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.pdb
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.csproj.AssemblyReference.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.AssemblyInfoInputs.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.AssemblyInfo.cs
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.csproj.CoreCompileInputs.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.csproj.CopyComplete
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.AirPortManager\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.AirPortManager.pdb

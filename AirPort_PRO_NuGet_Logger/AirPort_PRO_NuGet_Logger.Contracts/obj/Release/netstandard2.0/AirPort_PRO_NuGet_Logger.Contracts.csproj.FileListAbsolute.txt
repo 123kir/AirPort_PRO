@@ -1,0 +1,10 @@
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.deps.json
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\bin\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.pdb
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.csproj.AssemblyReference.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.AssemblyInfoInputs.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.AssemblyInfo.cs
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Contracts\obj\Release\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XD7BrSU9/Hw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cakyr\\Documents\\GitHub\\AirPort_PRO\\AirPort_PRO_NuGet_Logger\\AirPort_PRO_NuGet_Logger.Contracts\\AirPort_PRO_NuGet_Logger.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cakyr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cakyr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

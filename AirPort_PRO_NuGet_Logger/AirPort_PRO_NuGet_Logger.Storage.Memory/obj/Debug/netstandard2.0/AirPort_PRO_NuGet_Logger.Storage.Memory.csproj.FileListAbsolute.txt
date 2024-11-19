@@ -1,0 +1,13 @@
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\bin\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.deps.json
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\bin\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\bin\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.pdb
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\bin\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\bin\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Contracts.pdb
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.csproj.AssemblyReference.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.AssemblyInfoInputs.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.AssemblyInfo.cs
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.csproj.CoreCompileInputs.cache
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.csproj.CopyComplete
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.dll
+C:\Users\466-21\Desktop\AirPort_PRO_NuGet_Logger\AirPort_PRO_NuGet_Logger.Storage.Memory\obj\Debug\netstandard2.0\AirPort_PRO_NuGet_Logger.Storage.Memory.pdb
